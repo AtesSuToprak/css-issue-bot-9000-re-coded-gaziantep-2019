@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-family: Arial, Georgia;
+  font-size: 12px;
 }
 
 #tasks .completed {
